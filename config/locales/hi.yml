@@ -312,6 +312,6 @@ hi:
   user:
     no_current_pr_message:
     organisations: "...का सदस्य"
-    pull_request_count:
+    contribution_count:
       one: "%{user} ने %{count} को क्रिसमस %{year} में अब तक Pull Request किया है"
       other: "%{user} ने %{count} को क्रिसमस %{year} में अभी तक Pull Request किया है"

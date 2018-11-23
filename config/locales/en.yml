@@ -196,7 +196,7 @@ en:
       suggest: Suggest a %{language} project
     pull_requests:
       latest:
-        count: Latest %{language} Pull Requests (%{count} total)
+        count: Latest %{language} Contributions (%{count} total)
   locale:
     cs: Čeština
     de: Deutsch
@@ -291,7 +291,7 @@ en:
     language:
       count: "%{count} contributions already made in %{language}!"
     latest:
-      count: Latest Pull Requests (%{count} total)
+      count: Latest Contributions (%{count} total)
   suggestions:
     title: My Suggestions
   twitter:
@@ -310,6 +310,6 @@ en:
   user:
     no_current_pr_message: "%{user} has gifted no contributions this year. <a href='https://github.com/24pullrequests/24pullrequests/blob/master/CONTRIBUTING.md'>Can we help you get started?</a>"
     organisations: Member of...
-    pull_request_count:
+    contribution_count:
       one: "%{user} has made %{count} contribution so far in Christmas %{year}"
       other: "%{user} has made %{count} contributions so far in Christmas %{year}"

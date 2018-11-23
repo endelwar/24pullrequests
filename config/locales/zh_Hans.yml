@@ -310,6 +310,6 @@ zh_Hans:
   user:
     no_current_pr_message:
     organisations: 一名成员
-    pull_request_count:
+    contribution_count:
       one: "%{user} 在%{year}年的圣诞已经发出了 %{count} 个 pull request"
       other: "%{user} 在%{year}年的圣诞已经发出了 %{count} 个pull requests"
