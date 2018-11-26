@@ -295,6 +295,20 @@ en:
       count: "%{count} contributions already made in %{language}!"
     latest:
       count: Latest Contributions (%{count} total)
+  contributions:
+    new:
+      title: Add Contribution
+      form:
+        title: title
+        title_placeholder: Title
+        body: Body
+        body_placeholder: Body
+        repo_name: Repo name
+        repo_name_placeholder: Repository name
+        issue_url: Issue url
+        issue_url_placeholder: github.com/example_project/example_repo/issues/12345
+        created_at: Contributed at
+      save: Save contribution
   suggestions:
     title: My Suggestions
   twitter:
