@@ -199,7 +199,7 @@ en:
       suggest: Suggest a %{language} project
     pull_requests:
       latest:
-        count: Latest %{language} Pull Requests (%{count} total)
+        count: Latest %{language} Contributions (%{count} total)
   locale:
     cs: Čeština
     de: Deutsch
@@ -294,7 +294,7 @@ en:
     language:
       count: "%{count} contributions already made in %{language}!"
     latest:
-      count: Latest Pull Requests (%{count} total)
+      count: Latest Contributions (%{count} total)
   suggestions:
     title: My Suggestions
   twitter:
